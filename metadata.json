@@ -1,0 +1,7 @@
+{
+  "name": "PuppyPolaroid",
+  "description": "A cute, interactive photo framing app where a Line Dog camera processes your photos into polaroids.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
